@@ -1,5 +1,5 @@
 ### Project working
-- hooks
-- parent child relation pass by props
-- react router integration
-- redux with hooks
+- React hooks
+- React hooks component with parent child relation pass by props
+- React hooks component with react router integration
+- redux with react hooks integration
